@@ -1,5 +1,5 @@
 let edad=71.5;
-let nombre="Juan"
+let nombre="Diego"
 
 //if - else
 if(edad>18){
