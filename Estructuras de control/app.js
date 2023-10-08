@@ -1,4 +1,4 @@
-let edad=71.5;
+let edad=18;
 let nombre="Diego"
 
 //if - else
